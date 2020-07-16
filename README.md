@@ -14,4 +14,5 @@ Reimport server certificate:
 $(docker run --rm -e SERVER_NAME=your-server-name -e CERTIFICATE_ARN="..." okzk/ACMHelper)
 ```
 
-
+## License
+MIT
